@@ -86,7 +86,8 @@ _Nurse Case Manager_
 
 #### Makers Academy (September 2021 to January 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- Frequently used paring in order to problemsolve efficiently, requiring teamwork and communication.
+- Frequently used paring in order to problem solve efficiently, requiring teamwork and communication.
+- Improved my leadership and communication skills by volunteering to run a cohort retro and helping to lead team projects.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
