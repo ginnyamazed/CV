@@ -86,7 +86,7 @@ _Nurse Case Manager_
 
 #### Makers Academy (September 2021 to January 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- Frequently used paring in order to problemsolve efficiently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -111,4 +111,9 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+In my spare time I enjoy 
+- Training my dog
+- Trying to get to the gym or completing an indoor cycle
+- Starting my day with a walk during the spring through fall
+- Playing video games
+- Having coffee or drinks with friends
