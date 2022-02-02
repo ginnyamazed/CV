@@ -7,42 +7,29 @@ I am an ambitious Full Stack Junior Developer and a recent graduate of Makers Ac
 Name  | Description  | Tech/tools  | Repo Link
 | :---  | :---  | :---  | :---
 Heyday           | A webapp to help a group find the best day to meetup based on availabilities and preference. | Create React App | [HeyDay Repo](https://github.com/ginnyamazed/Heyday.git)
-| **Something else worked on** | A webapp to do y. | Ruby      
-
-Left aligned Header | Right aligned Header | Center aligned Header
-| :--- | ---: | :---:
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell|
+| Chitter Challenge - AKA Quacker | A webapp to mimic Twitter. | Undertaken individually to improve Rails, DB, and API experience. Ruby on Rails, PostgreSQL  | [Github Repo](https://github.com/ginnyamazed/chitter-challenge.git)      
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Self-Drive
 
--STAR
--What was the situation/task? (ST)
+- I have demonstrated self-drive throughout my nursing career, transitioning from an aide, to a nurse, to a director, and to an advance practice nurse.
+- It was evident when I moved to the UK and started a small business to help contribute to society in a meaningful way, it was evident when I transitioned to an aesthetic nurse, and it was evident when I transitioned my career from nursing to software development.  
+- Throughout Makers Academy I continued to use self drive to increase my knowledge of testing and programming languages during unscheduled time.  
+- Post Makers Academy I have signed up and started an Introduction to Object Oriented Programming with Java program from Georgia Tech
 
--How was the skill used?
+#### Collaborative Spirit
 
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+I have demonstrated a Collaborative Spirit throughout all my work and learning experiences through the many team projects I have completed.  In my last two clinic nursing roles I collaborated with other team members and company owners to help make processes run smoother and improve patient satisfaction.  In both roles I also showed Active Ownership and the Capgemini company value of Boldness, in improving processes by taking on the task and responsibility of working with the software system in place to get the clinics out of the status quo and onto digital records. 
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Ownership & Leadership
+
+I am placing ownership and leadership together as for me, they often occur at the same time.  I strive for the best, in myself and others.  This flows into group projects, where I take on ownership of it to help it be something I am proud of.  While in education programs, projects have a specific due date and tasks.  In order to make the most of the time we have been given, I often step-up and take the lead to get things going.  In the Makers program, for two of the three group projects, I stepped up to get a project started by taking ownership of the team documents needed. I also provided information specific to the scrum process and asked the team to review it so that we could discuss the Scrum Master role and have our stand ups and retros follow the recommendations.  In both cases I empowered someone else to take on the Scrum Master role.
 
 ## Work Experience
 
@@ -110,10 +97,6 @@ _Nurse Case Manager_
 - Associate of Science in Nursing
 - Passed, average GPA of 3.2
 - Learned knowledge and skills to become a registered nurse.  
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
