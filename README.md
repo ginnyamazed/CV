@@ -7,7 +7,12 @@ I am an ambitious Full Stack Junior Developer and a recent graduate of Makers Ac
 Name  | Description  | Tech/tools  | Repo Link
 | :--- | :--- | :---
 Heyday           | A webapp to help a group find the best day to meetup based on availabilities and preference. | Create React App | [HeyDay Repo](https://github.com/ginnyamazed/Heyday.git)
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby      
+
+Left aligned Header | Right aligned Header | Center aligned Header
+| :--- | ---: | :---:
+Content Cell  | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell|
 
 ## Skills
 
