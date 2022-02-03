@@ -4,10 +4,10 @@ I am an ambitious Full Stack Junior Developer and a recent graduate of Makers Ac
 
 ## Projects
 
-Name  | Description  | Tech/tools  | Repo Link
+Name  | Description  | Tech/tools  | Repo Link  | Website Link
 | :---  | :---  | :---  | :---
-Heyday           | A webapp to help a group find the best day to meetup based on availabilities and preference. | Create React App | [HeyDay Repo](https://github.com/ginnyamazed/Heyday.git)
-| Chitter Challenge - AKA Quacker | A webapp to mimic Twitter. | Undertaken individually to improve Rails, DB, and API experience. Ruby on Rails, PostgreSQL  | [Github Repo](https://github.com/ginnyamazed/chitter-challenge.git)      
+Heyday           | A webapp to help a group find the best day to meetup based on availabilities and preference. | Create React App | [Heyday Repo](https://github.com/ginnyamazed/Heyday.git) | [Heyday](https://heyday.vercel.app/)
+| Chitter Challenge - AKA Quacker | A webapp to mimic Twitter. | Undertaken individually to improve Rails, DB, and API experience. Ruby on Rails, PostgreSQL  | [Github Repo](https://github.com/ginnyamazed/chitter-challenge.git) | [Quacker](https://ginnysquacker.herokuapp.com/)
 
 ## Skills
 
