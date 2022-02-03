@@ -6,10 +6,18 @@ I am an ambitious Full Stack Junior Developer and a recent graduate of Makers Ac
 
 Name  | Description  | Tech/tools  | Repo Link  | Website Link
 | :---  | :---  | :---  | :--- | :---
-Heyday           | A webapp to help a group find the best day to meetup based on availabilities and preference. | Create React App | [Heyday Repo](https://github.com/ginnyamazed/Heyday.git) | [Heyday](https://heyday.vercel.app/)
-| Chitter Challenge - AKA Quacker | A webapp to mimic Twitter. | Undertaken individually to improve Rails, DB, and API experience. Ruby on Rails, PostgreSQL  | [Github Repo](https://github.com/ginnyamazed/chitter-challenge.git) | [Quacker](https://ginnysquacker.herokuapp.com/)
+Heyday           | A webapp to help a group find the best day to meetup based on availabilities and preference. | JavaScript, React, Node, Jest, Express, EmailJS, HTML, Sass, Heroku, Vercel | [Heyday Repo](https://github.com/ginnyamazed/Heyday.git) | [Heyday](https://heyday.vercel.app/)
+| Chitter Challenge - AKA Quacker | A webapp to mimic Twitter. | Ruby on Rails, PostgreSQL, SQLite3, HTML, CSS, Heroku  | [Github Repo](https://github.com/ginnyamazed/chitter-challenge.git) | [Quacker](https://ginnysquacker.herokuapp.com/)
 
 ## Skills
+
+### Tech Skills
+- Ruby (Rails, Sinatra, Capybara, RSpec)
+- JavaScript (Node, React, Express, Jest)
+- SQL (PostgreSQL, TablePlus, DataGrip)
+- HTML, CSS
+- GitHub, Git, Command-line
+- IDEs (IntelliJ IDEA, RubyMine)
 
 #### Self-Drive
 
