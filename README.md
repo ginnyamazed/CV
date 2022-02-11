@@ -1,5 +1,5 @@
 # Ginny Thomas
-[Projects](#Projects) | [Skills](#Skills) | [Work Experience](#Work_Experience) | [Educaction](#Education) | [Hobbies](#Hobbies)
+[Projects](#Projects) | [Skills](#Skills) | [Work Experience](#Work_Experience) | [Educaction](#Education) | [Hobbies](#Hobbies) | [Peronal Blog](#Personal_Blog)
 
 ## About Me
 I am an ambitious Full Stack Junior Developer and a recent graduate of Makers Academy 16 week software developer bootcamp. I have spent the past 15 years working in healthcare.  I started as a nurses aid to get hospital experience on my way to becoming a registered nurse.  I went on to become a clinical director of a home (community) health agency while earning my Masters Degree in Nursing - Family Nurse Practitioner from Grand Canyon University. Over the past two years I have become a Aesthetic Nurse Specialist while living in the UK.  I have also opened a craft butcher shop in Cambridge where I am a director and run the financial aspects of the company.  Tech and software development excites me, because like nursing, there are worlds of possibilities.  I love that software development is needed everywhere and I can pursue different personal passions and interests within my career.
@@ -100,7 +100,6 @@ _Nurse Case Manager_
 #### Rio Salado, part of Maricopa Community College (Arizona, USA) (April 2005 to December 2007)
 
 - Associate of Science in Nursing
-- Passed, average GPA of 3.2
 - Learned knowledge and skills to become a registered nurse.  
 
 ## Hobbies
@@ -111,3 +110,7 @@ In my spare time I enjoy
 - Starting my day with a walk during the spring through fall
 - Playing video games
 - Having coffee or drinks with friends
+
+## Personal Blog
+
+When I started my Maker's course I also started a personal blog to help document my journey.  You can check that out [here](fnp2se.wordpress.com)
