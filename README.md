@@ -1,5 +1,5 @@
 # Ginny Thomas
-[Projects](#Projects) | [Skills](#Skills) | [Educaction](#Education) | [Work Experience](#Work-Experience) | [Hobbies](#Hobbies) | [Personal Blog](#Personal-Blog)
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Work Experience](#Work-Experience) | [Hobbies](#Hobbies) | [Personal Blog](#Personal-Blog)
 
 ## About Me
 I am an ambitious Full-Stack Junior Developer and a recent graduate of Makers Academy 16 week software developer bootcamp. I have spent the past 15 years working in healthcare. I know what it's like to start at the beginning as an apprentice, gaining experience and knowledge as I go. Over the past two years I have become a Aesthetic Nurse Specialist while living in the UK.  I have also opened a craft butcher shop in Cambridge where I am a director and run the financial aspects of the company.  This has given me experience in the start up world.  It also reinforced my desire to have a career that can take me anywhere and not tie me down to one location.  Tech and software development excites me, because like nursing, there are worlds of possibilities.  I love that software development is needed everywhere and I can pursue different personal passions and interests within my career.
@@ -59,7 +59,7 @@ _Owner and Director_
 - Built the business to an idea to a successful, profitable butcher shop in Cambridge, UK
 - Establish business processes to effectively manage company documents including the Company Handbook 
 - Coordinate staff training
-- Manage finanices, including AP, AR, payroll, and bookkeeping
+- Manage finances, including AP, AR, payroll, and bookkeeping
 - Setup and modify technologies as needed to meet business needs
 - Work with the crew.  I get my hands dirty and work directly at the shop as needed, typically during high turnover times such as before Easter and Christmas
 
@@ -74,7 +74,7 @@ _Aesthetic Nurse_
 
 - Implemented software system to include all treatment options, products, and clinicians.  Trained fellow clinicians on system use. 
 
-**Family Nurse Practitioner* (August 2015 to November 2017)  
+**Family Nurse Practitioner** (August 2015 to November 2017)  
 _Family Nurse Practitioner_
 
 - Worked as a Family Nurse Practioner in various roles including convenience care (same day sick visits, immunisations, drivers certification tests, and insurance health checks), pain management, and general practice
