@@ -53,6 +53,14 @@ Professional Certificate Program: Introduction to Object-Oriented Programming wi
 
 ## Work Experience
 
+**Maker's Academy (Capgemini Contractor)** (March 2022 to current)  
+Software Developer
+
+- Contractor for HMRC, Making Tax Digital 
+- Scala developer on a full stack, live services team working in a Kanban style 
+- Contribute to team productivity through completing tickets in a Jira reporting system
+- Help to positively change team dynamics through keeping camera on in meetings, asking questions, and engaging in daily standups and fortnight retros. 
+
 **Malloy's Craft Butchery** (April 2019 to current)  
 _Owner and Director_
 
